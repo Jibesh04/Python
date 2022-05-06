@@ -34,6 +34,7 @@ while True:
 time.sleep(2)
 print("Hope it worked successfully")
 print("Thank you for Playing LUDO Lite")
-time.sleep(3)
+time.sleep(5)
+print("Ashish Modified")
 print("For any modifications needed or suggested, kindly share with us through mail\ncoder.jp333@gmail.com\nThanks again")
 time.sleep(10)
